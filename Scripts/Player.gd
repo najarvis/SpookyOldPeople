@@ -1,7 +1,7 @@
 extends KinematicBody
 
 const GRAVITY = -9.81
-const WALK_SPEED = 3
+const WALK_SPEED = 1
 
 var vel = Vector3()
 
